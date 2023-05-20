@@ -30,9 +30,9 @@ This Python script helps you find and categorize duplicate PDF files within a sp
 
 5. Run the script:
     
-        ```bash
+        
         python main.py
-        ```
+        
         
 6. The script will generate the output file with the duplicate PDF file paths, categorized by their hash values.
 
