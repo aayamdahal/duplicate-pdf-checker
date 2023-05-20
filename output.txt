@@ -1,0 +1,12 @@
+Duplicate PDFs (Hash: 28b22b1e33289fb058d28c4fba08e47f):
+- /home/aayam/check-pdf-duplicate/pdf/sample.pdf
+- /home/aayam/check-pdf-duplicate/pdf/sample_dupli.pdf
+
+Duplicate PDFs (Hash: 61d7db18c5b6d262e3760e9051af0e50):
+- /home/aayam/check-pdf-duplicate/pdf/ctzn.pdf
+- /home/aayam/check-pdf-duplicate/pdf/userManual_ctzn.pdf
+
+Duplicate PDFs (Hash: 97090dd143a2e1d6ad5c9cafeba66680):
+- /home/aayam/check-pdf-duplicate/pdf/naya_newsletter.pdf
+- /home/aayam/check-pdf-duplicate/pdf/newsletter.pdf
+
