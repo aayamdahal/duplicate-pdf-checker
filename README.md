@@ -6,7 +6,6 @@ This Python script helps you find and categorize duplicate PDF files within a sp
 
 - Calculates MD5 hash values of PDF files to identify duplicates.
 - Writes the list of duplicate files to a text file, categorized by their hash values.
-- Works recursively, searching for PDF files in subdirectories as well.
 
 ## Prerequisites
 
